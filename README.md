@@ -14,7 +14,7 @@ This project detects wild animals in real-time video streams using the YOLOv5 ob
 
 ## ✅ Features
 
-- 🔍 Real-Time Detection using YOLOv5 and OpenCV  
+- 🔍 Real-Time Detection using YOLOv8 and OpenCV  
 - 🌐 Streamlit Interface for live video feed  
 - 🚨 Sound Alarm Trigger using Pygame  
 - 📧 Email Notifications using SMTP  
