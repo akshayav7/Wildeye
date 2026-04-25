@@ -384,7 +384,7 @@ if page == "Detection":
 
     option = st.selectbox(
         "Choose Input Type",
-        ["Upload Image", "Upload Video" , "Open Webcam"]
+        ["Upload Image", "Upload Video"]
     )
 
     # ------------------ IMAGE ------------------
